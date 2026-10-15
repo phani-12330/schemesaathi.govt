@@ -1,0 +1,48 @@
+{
+  "hash": "165022c2",
+  "configHash": "1dd35e1a",
+  "lockfileHash": "f8f7968a",
+  "browserHash": "ab81e7e4",
+  "optimized": {
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "b3412df5",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "932a74d1",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "448b4c8c",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "041861ad",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "ba82315d",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "react-DPKsgqat": {
+      "file": "react-DPKsgqat.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-CdETjqJa": {
+      "file": "react-dom-CdETjqJa.js",
+      "isDynamicEntry": false
+    }
+  }
+}
